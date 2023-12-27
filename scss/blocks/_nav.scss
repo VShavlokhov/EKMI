@@ -1,0 +1,40 @@
+.nav {
+ background-color: #fff;
+}
+.nav__list {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 62px;
+}
+.nav__item {
+}
+.nav__link {
+  color: var(--color-text);
+  font-family: Raleway;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 19.5px */
+  text-transform: uppercase;
+}
+.nav__link--tell{
+  font-family: Open Sans;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 19.5px */
+  text-transform: uppercase;
+}
+.nav__link--language{
+  color: rgba(52, 52, 52, 0.70);
+  font-family: Raleway;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 19.5px */
+}
+.logo {
+}
+.nav__logo {
+}
